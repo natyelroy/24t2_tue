@@ -1,0 +1,13 @@
+flowchart -> pseudocode
+
+print "Do you like puns?"
+scan input
+if yes:
+    print "Do you like computers more than books?"
+    scan input
+    if yes:
+        print "You will be glad to C this pun"
+    else:
+        print "I hope the police will book you for saying that"
+else:
+    print "That's pUnfortunate"
